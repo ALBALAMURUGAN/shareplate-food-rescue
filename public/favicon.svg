@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#4C1D95" stroke="#F59E0B" stroke-width="6"/>
+  <circle cx="50" cy="50" r="36" fill="#2E1065" stroke="#FBBF24" stroke-width="2" stroke-dasharray="4 4"/>
+  <!-- Heart and Sprout -->
+  <path d="M50 32C43 24 32 30 32 40C32 52 50 66 50 66C50 66 68 52 68 40C68 30 57 24 50 32Z" fill="#F59E0B" />
+  <path d="M50 38C52 30 60 26 66 30" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="50" r="4" fill="#FEF08A"/>
+</svg>
